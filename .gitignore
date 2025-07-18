@@ -3,6 +3,5 @@
 *.swp
 *.o
 a.out
-minilibx
-kdm
-libft
+.vscode
+/miniRT

@@ -1,0 +1,9 @@
+[submodule "kdm"]
+	path = kdm
+	url = git@github.com:kodokaii/kdm.git 
+[submodule "libft"]
+	path = libft
+	url = git@github.com:nlaerema/advanced_libft.git 
+[submodule "minilibx"]
+	path = minilibx
+	url = git@github.com:kodokaii/MLX42.git
